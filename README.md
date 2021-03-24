@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Play on click next / prev
 - Fix active / inactive button states
 - Refine styling for all elements
+- Put JSON data into API call
 
 ## Available Scripts
 
