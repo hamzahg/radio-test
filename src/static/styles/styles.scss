@@ -1,0 +1,25 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import './settings/settings';
+
+@at-root html {
+  font-size: 62.5%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.15;
+  padding: env(safe-area-inset);
+  -webkit-text-size-adjust: 100%;
+}
+
+@at-root body {
+  font-family: $font-sans;
+  font-size: $size-small;
+}
+
+$typography: 'h1, h2, h3, h4, p, a,';
+
+#{$typography} {
+  color: $c-white;
+}

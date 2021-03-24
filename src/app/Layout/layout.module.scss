@@ -1,0 +1,19 @@
+@import '../../static/styles/settings/settings';
+
+.layout {
+  background: rgb(48, 48, 48);
+  background: radial-gradient(circle, rgba(48, 48, 48, 1) 0%, rgba(64, 64, 64, 1) 33%, rgba(48, 48, 48, 1) 100%);
+  width: 100%;
+  padding: $spacer-default;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+
+  &__title {
+    font-size: $size-small;
+    font-weight: $weight-bold;
+    line-height: 110%;
+    margin-bottom: $spacer-default;
+  }
+}
