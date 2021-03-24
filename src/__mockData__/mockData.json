@@ -2,7 +2,7 @@
   "stations": [
     {
       "id": 1,
-      "url": "http://listen.181fm.com/181-90srnb_128k.mp3",
+      "url": "https://listen.181fm.com/181-90srnb_128k.mp3",
       "title": "90s RnB",
       "image": {
         "src": "https://m.media-amazon.com/images/I/612vQ03qdYL.jpg",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "url": "http://listen.181fm.com/181-jazzmix_128k.mp3",
+      "url": "https://listen.181fm.com/181-jazzmix_128k.mp3",
       "title": "Jazz Mix",
       "image": {
         "src": "https://m.media-amazon.com/images/I/51qly8y-E0L.jpg",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "url": "http://listen.181fm.com/181-technoclub_128k.mp3",
+      "url": "https://listen.181fm.com/181-technoclub_128k.mp3",
       "title": "Techno Club",
       "image": {
         "src": "https://m.media-amazon.com/images/I/61FymnFRQJL.jpg",
